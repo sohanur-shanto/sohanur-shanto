@@ -1,4 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sohanur Rahman Shanto</h1>
+<a href="https://www.facebook.com/sohanurrahman.shanto.1/">
+  <img align="left" alt="Sohanur's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sohanur-rahman-shanto-6a7874189/">
+  <img align="left" alt="Sohanur's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 <p align="center">A passionate self-taught Full Stack web developer and a freelance Data scientist from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanur-shanto&label=Profile%20views&color=0e75b6&style=flat" alt="sohanur-shanto" /> </p>
