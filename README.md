@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohanur Rahman Shanto</h1>
-<h5 align="center">A passionate self-taught Full Stack web developer and a freelance Data scientist from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</h5>
+<p align="center">A passionate self-taught Full Stack web developer and a freelance Data scientist from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanur-shanto&label=Profile%20views&color=0e75b6&style=flat" alt="sohanur-shanto" /> </p>
 
