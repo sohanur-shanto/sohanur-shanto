@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ehsan Software](https://ehsansoftware.com/)
 
-- 🌱 I’m currently learning **React and Deep learning.**
+- 🌱 I’m currently learning **core django concepts and react.**
 
 - 👯 I’m looking to collaborate on **anything free and open source.**
 
