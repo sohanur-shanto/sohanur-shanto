@@ -18,8 +18,11 @@
 
 <br>
 
-- 🌱 I’m currently learning **core django concepts and react.**
+
+
 - 🔭 I’m currently working for [Ehsan Software](https://ehsansoftware.com/)
+
+- 🌱 I’m currently learning **core django concepts and react.**
 
 - 👯 I’m looking to collaborate on **anything free and open source.**
 
