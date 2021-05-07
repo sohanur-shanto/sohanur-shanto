@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **anything free and open source.**
 
-- 💬 Ask me about **anything, I am happy to help you.**
+- 💬 Ask me about **anything related to django and machine learning, I am happy to help you.**
 
 - 📫 How to reach me **sohanur.shanto@northsouth.edu**
 
-- ⚡ Fun fact **I love functional programming and tea.**
+- ⚡ Fun fact **I love functional programming, complex algorithms and tea.**
 
 
 <h3 align="left">Languages and Tools:</h3>
