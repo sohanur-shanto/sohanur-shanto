@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>
-<img src="Banner.png"> </img>
+<img src="sohanur.png"> </img>
   </kbd>
 </p>
 
