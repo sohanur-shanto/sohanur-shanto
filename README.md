@@ -43,8 +43,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="450"></a>
 </div>
 <br/>  
-
+<center>
 ## My Skill Set  
+  </center>
 <table><tr><td valign="top" width="33%">
 
 
