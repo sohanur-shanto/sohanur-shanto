@@ -26,7 +26,7 @@
 
 
 
-- 🔭 I’m currently working for [Ehsan Software](https://ehsansoftware.com/)
+- 🔭 I’m currently working for [Laksura](https://laksura.com/)
 
 - 🌱 I’m currently learning **core django concepts and react.**
 
