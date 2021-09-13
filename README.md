@@ -39,9 +39,9 @@
 - ⚡ Fun fact **I love functional programming, complex algorithms and tea.**
 
 
-<div align="center" width="50">
+<!-- <div align="center" width="50">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="450"></a>
-</div>
+</div> -->
 <br/>  
 
 ## My Skill Set  
