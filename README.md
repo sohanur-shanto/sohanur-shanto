@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sohanur Rahman Shanto</h1>
-<p align="center">A passionate self-taught Full Stack web developer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
+<p align="center">A passionate self-taught Software Engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sohanur-shanto&label=Profile%20views&color=0e75b6&style=flat" alt="sohanur-shanto" /> </p>
@@ -25,16 +25,13 @@
 <br>
 
 
-
-- 🔭 I’m currently working for ...
-
-- 🌱 I’m currently learning **core django concepts and react.**
+- 🌱 I’m currently learning **Python frameworks and DevOps technology.**
 
 - 👯 I’m looking to collaborate on **anything free and open source.**
 
-- 💬 Ask me about **anything related to django and machine learning, I am happy to help you.**
+- 💬 Ask me about **anything related to python and machine learning, I am happy to help you.**
 
-- 📫 How to reach me **sohanur.shanto@northsouth.edu**
+- 📫 How to reach me **sohanurshantorahman@gmail.com**
 
 - ⚡ Fun fact **I love functional programming, complex algorithms and tea.**
 
